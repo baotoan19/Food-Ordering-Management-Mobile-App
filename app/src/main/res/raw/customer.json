@@ -1,0 +1,47 @@
+[
+  {
+    "Cus_ID": "2024KH0912578064",
+    "Cus_Name": "Trần Khánh Minh",
+    "Cus_Email": "minh@example.com",
+    "Cus_Address": "567 Maple Street, Quận 5, TP.HCM",
+    "Cus_Sex": "Nam",
+    "Cus_Password": "minh123",
+    "Cus_Phone": "0912578064"
+  },
+  {
+    "Cus_ID": "2024KH0956784321",
+    "Cus_Name": "Đinh Thị Cẩm Tiên",
+    "Cus_Email": "tien@example.com",
+    "Cus_Address": "789 Oak Street, Quận 2, TP.HCM",
+    "Cus_Sex": "Nữ",
+    "Cus_Password": "tien123",
+    "Cus_Phone": "0956784321"
+  },
+  {
+    "Cus_ID": "2024KH0967457908",
+    "Cus_Name": "Võ Hoàng Bảo Ngọc",
+    "Cus_Email": "ngoc@example.com",
+    "Cus_Address": "321 Pine Street, Quận 2, TP.HCM",
+    "Cus_Sex": "Nữ",
+    "Cus_Password": "ngoc123",
+    "Cus_Phone": "0967457908"
+  },
+  {
+    "Cus_ID": "2024KH0975436789",
+    "Cus_Name": "Trần Minh Bảo",
+    "Cus_Email": "bao@example.com",
+    "Cus_Address": "123 Main Street, Quận 7, TP.HCM",
+    "Cus_Sex": "Nam",
+    "Cus_Password": "bao123",
+    "Cus_Phone": "0975436789"
+  },
+  {
+    "Cus_ID": "2024KH0984325678",
+    "Cus_Name": "Võ Thị Luyến",
+    "Cus_Email": "luyen@example.com",
+    "Cus_Address": "456 Elm Street, City, TP.HCM",
+    "Cus_Sex": "Nữ",
+    "Cus_Password": "luyen123",
+    "Cus_Phone": "0984325678"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Food_Category_ID": "CB1",
+    "Category_Name": "Combo 1 người"
+  },
+  {
+    "Food_Category_ID": "CBNhom",
+    "Category_Name": "Combo nhóm"
+  },
+  {
+    "Food_Category_ID": "Doan",
+    "Category_Name": "Burger-cơm-mì ý"
+  },
+  {
+    "Food_Category_ID": "Ga",
+    "Category_Name": "Gà Rán & Quay"
+  },
+  {
+    "Food_Category_ID": "Thucuong-Trangmieng",
+    "Category_Name": "Thức uống & tráng miệng"
+  }
+]

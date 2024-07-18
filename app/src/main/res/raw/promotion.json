@@ -1,0 +1,42 @@
+[
+  {
+    "Food_Promotion_ID": "2024KM01",
+    "Promotion_Name": "Mừng lễ 30/4 giảm giá lên đến 30% áp dụng cho tất cả các sản phẩm",
+    "Date_Start": "2024-05-08",
+    "Date_End": "2024-05-11",
+    "IsDeleted": "1",
+    "Discount_Amount": "0.3"
+  },
+  {
+    "Food_Promotion_ID": "2024KM02",
+    "Promotion_Name": "Sale ngày 1/5",
+    "Date_Start": "2024-05-09",
+    "Date_End": "2024-05-23",
+    "IsDeleted": "1",
+    "Discount_Amount": "0.2"
+  },
+  {
+    "Food_Promotion_ID": "2024KM03",
+    "Promotion_Name": "Siêu khuyến mại ngày khai trương giảm 20% cho tất cả các sản phẩm",
+    "Date_Start": "2024-05-08",
+    "Date_End": "2024-05-16",
+    "IsDeleted": "1",
+    "Discount_Amount": "0.2"
+  },
+  {
+    "Food_Promotion_ID": "2024KM04",
+    "Promotion_Name": "Khuyến mãi 10% khi mua hóa đơn trên 200.000đ",
+    "Date_Start": "2024-05-16",
+    "Date_End": "2024-05-09",
+    "IsDeleted": "1",
+    "Discount_Amount": "0.1"
+  },
+  {
+    "Food_Promotion_ID": "2024KM05",
+    "Promotion_Name": "Khuyến mãi tặng 1 ly pepsi(lớn) khi mua hóa đơn trên 300.000đ",
+    "Date_Start": "2024-05-09",
+    "Date_End": "2024-05-09",
+    "IsDeleted": "1",
+    "Discount_Amount": "0"
+  }
+]

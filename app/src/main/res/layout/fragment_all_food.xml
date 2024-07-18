@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".GUI.MenuFragment.AllFood_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginLeft="5dp"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:layout_marginRight="5dp"-->
+<!--        android:layout_marginBottom="10dp"-->
+<!--        android:text="TẤT CẢ"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="35dp"-->
+<!--        android:textStyle="bold" />-->
+
+    <EditText
+        android:id="@+id/timkiemmonan"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:drawableStart="@drawable/search"
+        android:drawablePadding="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/search_button"
+        android:ems="10"
+        android:backgroundTint="#F8F7F5"
+        android:inputType="textPersonName"
+        android:imeOptions="actionSearch"
+        android:hint="Tìm kiếm" />
+
+    <ListView
+        android:id="@+id/listViewAllFood"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10dp" />
+
+
+</LinearLayout>

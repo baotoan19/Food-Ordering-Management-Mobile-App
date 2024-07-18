@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuanLyCuaHangBanDoAnVat</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="google_maps_key">AIzaSyDOU0U7J3Csk7iI58k-kiSeg3Upq0p-m5Y</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">35757104198-jn8gcfm946ikuehsuj8p789bibj0hkcp.apps.googleusercontent.com</string>
+</resources>

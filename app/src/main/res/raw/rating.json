@@ -1,0 +1,32 @@
+[
+	{
+		"Rating_ID": "2024DG01",
+		"Bill_ID": "2024B01",
+		"Rating_comment": "Đồ ăn ngon và rẻ",
+		"Rating_date": "2024-05-06 20:42:46"
+	},
+	{
+		"Rating_ID": "2024DG02",
+		"Bill_ID": "2024B02",
+		"Rating_comment": "Đồ ăn ngon và rẻ",
+		"Rating_date": "2024-05-06 20:42:46"
+	},
+	{
+		"Rating_ID": "2024DG03",
+		"Bill_ID": "2024B03",
+		"Rating_comment": "Đồ ăn ngon và rẻ",
+		"Rating_date": "2024-05-06 20:45:05"
+	},
+	{
+		"Rating_ID": "2024DG04",
+		"Bill_ID": "2024B04",
+		"Rating_comment": "Đồ ăn ngon và rẻ",
+		"Rating_date": "2024-05-06 20:45:05"
+	},
+	{
+		"Rating_ID": "2024DG05",
+		"Bill_ID": "2024B05",
+		"Rating_comment": "Đồ ăn ngon và rẻ",
+		"Rating_date": "2024-05-06 20:45:05"
+	}
+]

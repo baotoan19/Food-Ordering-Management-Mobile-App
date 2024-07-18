@@ -1,0 +1,47 @@
+[
+  {
+    "Cart_ID": "G2024KH0912578064",
+    "Food_Items": [
+      {
+        "Food_ID": "Combo1",
+        "Quantity": "3",
+        "Total_Cart": "0.00"
+      },
+      {
+        "Food_ID": "Banhtrung01",
+        "Quantity": "1",
+        "Total_Cart": "0.00"
+      }
+    ]
+  },
+  {
+    "Cart_ID": "G2024KH0956784321",
+    "Food_Items": [
+      {
+        "Food_ID": "Banhbi03",
+        "Quantity": "1",
+        "Total_Cart": "0.00"
+      }
+    ]
+  },
+  {
+    "Cart_ID": "G2024KH0967457908",
+    "Food_Items": [
+      {
+        "Food_ID": "Combo3",
+        "Quantity": "1",
+        "Total_Cart": "0.00"
+      }
+    ]
+  },
+  {
+    "Cart_ID": "G2024KH0984325678",
+    "Food_Items": [
+      {
+        "Food_ID": "Banhkhoai03",
+        "Quantity": "5",
+        "Total_Cart": "0.00"
+      }
+    ]
+  }
+]

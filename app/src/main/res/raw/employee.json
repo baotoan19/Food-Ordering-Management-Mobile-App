@@ -1,0 +1,52 @@
+[
+  {
+    "Empl_ID": "2024NV01",
+    "Empl_name": "Nguyễn Thị Thu Hà",
+    "Empl_Password": "ha123",
+    "Empl_Email": "ha@example.com",
+    "Empl_Address": "123 Nguyễn Văn Quá, Quận 12, TP.HCM",
+    "Empl_Phone": "0988558043",
+    "Date_work": "2024-01-15",
+    "Role_ID": "Q01"
+  },
+  {
+    "Empl_ID": "2024NV02",
+    "Empl_name": "Đỗ Bảo Toàn",
+    "Empl_Password": "toan123",
+    "Empl_Email": "toan@example.com",
+    "Empl_Address": "456/12 Chu Văn An, Quận 1, TP.HCM",
+    "Empl_Phone": "0956821902",
+    "Date_work": "2023-11-20",
+    "Role_ID": "Q02"
+  },
+  {
+    "Empl_ID": "2024NV03",
+    "Empl_name": "Trần Hoàng Anh Khôi",
+    "Empl_Password": "khoi123",
+    "Empl_Email": "khoi@example.com",
+    "Empl_Address": "789 Oak Street, Quận 11, TP.HCM",
+    "Empl_Phone": "0956782345",
+    "Date_work": "2024-02-28",
+    "Role_ID": "Q02"
+  },
+  {
+    "Empl_ID": "2024NV04",
+    "Empl_name": "Nguyễn Văn Lợi",
+    "Empl_Password": "loi123",
+    "Empl_Email": "loi@example.com",
+    "Empl_Address": "321 Pine Street, Quận 2, TP.HCM",
+    "Empl_Phone": "05781290345",
+    "Date_work": "2024-03-10",
+    "Role_ID": "Q02"
+  },
+  {
+    "Empl_ID": "2024NV05",
+    "Empl_name": "Lê Thị Trà My",
+    "Empl_Password": "my123",
+    "Empl_Email": "my@example.com",
+    "Empl_Address": "567 Maple Street, Quận 3, TP.HCM",
+    "Empl_Phone": "0578124789",
+    "Date_work": "2024-04-05",
+    "Role_ID": "Q01"
+  }
+]

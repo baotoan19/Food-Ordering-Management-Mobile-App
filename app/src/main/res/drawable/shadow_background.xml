@@ -1,0 +1,27 @@
+<!-- res/drawable/shadow.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent"/>
+            <corners android:radius="8dp"/>
+            <padding
+                android:left="4dp"
+                android:top="4dp"
+                android:right="4dp"
+                android:bottom="4dp"/>
+            <size
+                android:width="0dp"
+                android:height="0dp"/>
+            <gradient
+                android:startColor="#44000000"
+                android:endColor="#00000000"
+                android:angle="90"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white"/>
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+</layer-list>

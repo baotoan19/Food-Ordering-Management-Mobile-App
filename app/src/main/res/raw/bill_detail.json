@@ -1,0 +1,32 @@
+[
+  {
+    "Bill_ID": "2024B01",
+    "Food_ID": "Banhkhoai03",
+    "Food_count": "1",
+    "Total_Bill": "0.00"
+  },
+  {
+    "Bill_ID": "2024B02",
+    "Food_ID": "Banhkhoai02",
+    "Food_count": "1",
+    "Total_Bill": "0.00"
+  },
+  {
+    "Bill_ID": "2024B03",
+    "Food_ID": "Combo1",
+    "Food_count": "1",
+    "Total_Bill": "0.00"
+  },
+  {
+    "Bill_ID": "2024B04",
+    "Food_ID": "Combo1",
+    "Food_count": "2",
+    "Total_Bill": "0.00"
+  },
+  {
+    "Bill_ID": "2024B05",
+    "Food_ID": "BurgerG",
+    "Food_count": "1",
+    "Total_Bill": "0.00"
+  }
+]

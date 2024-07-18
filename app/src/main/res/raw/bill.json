@@ -1,0 +1,42 @@
+[
+  {
+    "Bill_ID": "2024B01",
+    "Cus_ID": "2024KH0912578064",
+    "Empl_ID": "2024NV01",
+    "Order_Date": "2024-05-06",
+    "Delivery_Order": "0000-00-00",
+    "Bill_Status": "Chờ xác nhận"
+  },
+  {
+    "Bill_ID": "2024B02",
+    "Cus_ID": "2024KH0956784321",
+    "Empl_ID": "2024NV02",
+    "Order_Date": "2024-05-06",
+    "Delivery_Order": "0000-00-00",
+    "Bill_Status": "Chờ xác nhận"
+  },
+  {
+    "Bill_ID": "2024B03",
+    "Cus_ID": "2024KH0975436789",
+    "Empl_ID": "2024NV03",
+    "Order_Date": "2024-05-06",
+    "Delivery_Order": "0000-00-00",
+    "Bill_Status": "Chờ xác nhận"
+  },
+  {
+    "Bill_ID": "2024B04",
+    "Cus_ID": "2024KH0975436789",
+    "Empl_ID": "2024NV04",
+    "Order_Date": "2024-05-06",
+    "Delivery_Order": "0000-00-00",
+    "Bill_Status": "Chờ xác nhận"
+  },
+  {
+    "Bill_ID": "2024B05",
+    "Cus_ID": "2024KH0984325678",
+    "Empl_ID": "2024NV05",
+    "Order_Date": "2024-05-06",
+    "Delivery_Order": "0000-00-00",
+    "Bill_Status": "Chờ xác nhận"
+  }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_voucher"
+        android:icon="@drawable/voucher25"
+        android:title="Voucher" />
+    <item
+        android:id="@+id/navigation_menu"
+        android:icon="@drawable/hamburger25"
+        android:title="Menu" />
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home25"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/cart25"
+        android:title="Cart" />
+    <item
+        android:id="@+id/navigation_location"
+        android:icon="@drawable/location25"
+        android:title="Location" />
+</menu>

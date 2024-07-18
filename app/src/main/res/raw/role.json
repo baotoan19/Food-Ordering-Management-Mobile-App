@@ -1,0 +1,10 @@
+[
+  {
+    "Role_ID": "Q01",
+    "Role_Name": "Quản lý"
+  },
+  {
+    "Role_ID": "Q02",
+    "Role_Name": "Nhân viên bán hàng"
+  }
+]

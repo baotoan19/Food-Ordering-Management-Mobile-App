@@ -1,0 +1,8 @@
+<!-- styles.xml -->
+<resources>
+    <!-- Style cho ShapeableImageView hình tròn -->
+    <style name="CircularImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
